@@ -1,1 +1,1 @@
-# Animating-a-Bouncing-Ball
+# Animated-Bouncing-Ball
